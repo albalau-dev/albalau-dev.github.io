@@ -2,10 +2,15 @@
 ============================================================================================ */
 .about_person_area{
     background: #fff;
+    margin-top: 0px;
     padding-top: 40px;
     padding-bottom: 40px;
     .person_img{
         max-width: 322px;
+
+    height:300px;
+    border-radius:160px;
+    border:10px solid #666;
         img{
             max-width: 100%;
         }
@@ -13,6 +18,8 @@
             margin-top: 40px;
         }
     }
+
+
     .person_details{
         margin-left: -30px;
         h3{
