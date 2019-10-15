@@ -1156,7 +1156,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   text-align: center;
   line-height: 60px;
   border-radius: 50%;
-  border: 1px solid #fec608;
+  border: 1px solid #555;
   transition: all 400ms linear 0s;
 }
 
@@ -1178,7 +1178,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
 .left_contact_details .media:hover .media-left i {
   background: transparent;
-  color: #fec608;
+  color: #27b7e7;
 }
 
 .contact_from_area .form-group {
