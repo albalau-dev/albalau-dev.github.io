@@ -87,7 +87,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .pad {
-  padding: 0px 68px;
+  padding: 60px 68px;
 }
 
 #success {
@@ -262,7 +262,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .header_area .navbar.navbar-default .navbar-collapse .nav.navbar-nav li:hover a, .header_area .navbar.navbar-default .navbar-collapse .nav.navbar-nav li.active a {
-  color: #fff;
+  color: #242d30;
 }
 
 .header_area .navbar.navbar-default .navbar-collapse .nav.navbar-nav li:last-child {
