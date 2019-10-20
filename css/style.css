@@ -298,9 +298,12 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .circular--square {
-    width:300px;
-    height:300px;
-    border-radius:150px;
+    width:221px;
+    height:250px;
+    border-top-left-radius: 200% 200%;
+    border-top-right-radius: 200% 200%;
+    border-bottom-right-radius: 200% 200%;
+    border-bottom-left-radius: 200% 200%;
     border:7px solid #27b7e7;
 }
 .about_person_area .person_img img {
