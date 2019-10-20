@@ -294,12 +294,12 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .about_person_area .person_img {
-  max-width: 322px;
+  max-width: 250px;
 }
 
 .circular--square {
-    width:221px;
-    height:250px;
+    width:187px;
+    height:200px;
     border-top-left-radius: 200% 200%;
     border-top-right-radius: 200% 200%;
     border-bottom-right-radius: 200% 200%;
