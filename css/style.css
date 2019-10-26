@@ -297,7 +297,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   max-width: 250px;
 }
 
-.circular--square {
+/*.circular--square {
     width:187px;
     height:200px;
     border-top-left-radius: 200% 200%;
@@ -305,7 +305,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
     border-bottom-right-radius: 200% 200%;
     border-bottom-left-radius: 200% 200%;
     border:7px solid #27b7e7;
-}
+}*/
 .about_person_area .person_img img {
   max-width: 100%;
 }
